@@ -1,8 +1,8 @@
-using system;
-class Hello
-{
-public static void Main(string []args)
-{
-console.WriteLine("HelloWorld");
-}
-}
+using System;
+class Program  
+    {  
+        static void Main(string[] args)  
+        {  
+            Console.WriteLine("Hello World!");  
+        }  
+    } 
